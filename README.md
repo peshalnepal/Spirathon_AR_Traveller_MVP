@@ -9,4 +9,5 @@ Before reaching the destination we show destination and hotel by gps.apk. For no
 After reaching the destination, open our app, give your GPS location permission, then we give information about place. So, our app will not show information if you reach around destination. For now it is for Patan area. After reaching destination you will see i icon around, after clicking, you will get information in form of text and audio. Also you will see nearby hotels. Hotels room are also shown in portal.
 
 In our final demo these two apks will be combined in a single apk.
+PS: Please prefer demo video sent in mail.
 Thank you!
